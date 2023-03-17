@@ -33,9 +33,9 @@ Unlike the Chrome devtools location sensor, overriding the locale does not chang
 
 ## Screenshots
 
-![Screenshot of location data tab](https://raw.githubusercontent.com/akifgrape/bifrost-vpn/bisrost-ss.png)
+![Screenshot of location data tab](https://github.com/akifgrape/bifrost-vpn/blob/main/bifrost-ss.png)
 
-![Screenshot of location data tab](https://raw.githubusercontent.com/akifgrape/bifrost-vpn/bisrost-ss2.png)
+![Screenshot of location data tab](https://github.com/akifgrape/bifrost-vpn/blob/main/bifrost-ss2.png)
 
 
 
