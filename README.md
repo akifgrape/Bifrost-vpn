@@ -7,8 +7,6 @@ This extension allows you to customize your browser's settings to appear as if y
 
 bifrost utilizes the chrome.debugger API to spoof this data instead. This allows the data to be spoofed in frames, web workers and during the initial loading of a website. It also makes the spoofing completely undetectable.
 
-bifrost is not a VPN or proxy and will not change your IP. Although it can be used in combination with a VPN to obscure your true location.
-
 You can test and compare bifrost and other extensions on https://eighred.com
 
 bifrost contains collects no data and signup is not required.
