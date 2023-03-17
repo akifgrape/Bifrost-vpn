@@ -11381,7 +11381,7 @@
                     return _vm.onProxyUnblockerLinkClick();
                 }
             }
-        }, [ _vm._v("Urban Free VPN proxy Unblocker") ]) ]), _vm._v(" "), _c("div", {
+        }, [ _vm._v("Bifrost Free VPN proxy Unblocker") ]) ]), _vm._v(" "), _c("div", {
             staticClass: "announcement-controls"
         }, [ _c("button", {
             staticClass: "button_pink",
