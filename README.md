@@ -45,3 +45,5 @@ Load the extension on Chrome:
 - Check Developer mode
 - Click on Load unpacked extension
 - Select the folder.
+
+## Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
